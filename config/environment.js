@@ -18,7 +18,7 @@ module.exports = function(environment) {
     },
 
     APP: {
-      // Here you can pass flags/options to your application instance
+      // Here you can pass flags/options to your application.hbs instance
       // when it is created
     }
   };
